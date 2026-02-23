@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier
+_commit: v2.3.1
+_src_path: harmon-init
+bunch_add: true
+devcontainer: false
+git_init: true
+github_collaboration_templates: true
+github_release_init: true
+github_remote_create: true
+license: mit
+obsidian_project_add: false
+project_description: My boilerplates for various stacks such as Docker Compose, Ansible,
+    Terraform, shell scripts, etc.
+project_name: Harmon Boilerplates
+project_slug: harmon-boilerplates
+project_url: None
+run_task_bootstrap: false
+run_task_install: false

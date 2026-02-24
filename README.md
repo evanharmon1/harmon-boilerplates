@@ -1,6 +1,6 @@
 # Harmon Boilerplates
 
-My boilerplates for various stacks such as Docker Compose, Ansible, Terraform, shell scripts, etc.
+My code boilerplates for various stacks such as Docker Compose, Ansible, Terraform, shell scripts, etc. Also a general code repo for code or scripts that don't really fit anywhere else.
 
 Author: Evan Harmon
 
@@ -25,7 +25,7 @@ Author: Evan Harmon
 
 ## Setup & Installation
 
-Start with looking at <https://github.com/ChristianLempa/boilerplates> repo for an existing boilerplate there. There is a cli tool to use boilerplates from that repo and you can integrate other repos.
+If there isn't an existing boilerplate in this repo, start with looking at <https://github.com/ChristianLempa/boilerplates> repo for an existing boilerplate there. There is a cli tool to use boilerplates from that repo and you can integrate other repos.
 
 ### Requirements
 
